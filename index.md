@@ -6,7 +6,7 @@ layout: default
 
 - [About me](#about-me)
   - [Qualifications](#qualifications)
-  - [Language Experience](#language-experience)
+  - [Programming Language Experience](#programming-language-experience)
   - [Software Experience](#software-experience)
 - [Previous Projects](#previous-projects)
   - [Tuitionn](#tuitionn)
@@ -28,7 +28,7 @@ I am **David Wheatley** ([davwheat](https://www.github.com/davwheat)). I am an e
 | GCSE English Language | 8     |
 | GCSE Spanish          | 7     |
 
-## Language Experience
+## Programming Language Experience
 
 | Language             | Rating |
 | :------------------- | :----: |
