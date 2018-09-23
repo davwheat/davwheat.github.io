@@ -10,8 +10,10 @@ layout: default
   - [Software Experience](#software-experience)
 - [Previous Projects](#previous-projects)
   - [Tuitionn](#tuitionn)
-    - [Log in screen](#log-in-screen)
-    - [Javascript Libraries](#javascript-libraries)
+  - [RevisR](#revisr)
+  - [PoliceAnimations](#policeanimations)
+  - [TrainerVConfigCreator](#trainervconfigcreator)
+  - [gcse-computing](#gcse-computing)
 
 # About me
 
@@ -56,25 +58,22 @@ I am **David Wheatley** ([davwheat](https://www.github.com/davwheat)). I am an e
 
 ## Tuitionn
 
-**Tuitionn** was a free GCSE revision website I began working on while I was in Year 10 (age 14).
+**[Tuitionn](https://www.tuitionn.co.uk)** was a free GCSE revision website I began working on while I was in Year 10 (age 14). It is my largest project so far.
 
-It was programmed in **PHP**, **HTML,** **CSS** and **JavaScript**. It also used **[Material Design](https://material.io/develop/web/)** and **[reCAPTCHA](https://developers.google.com/recaptcha/)**.
+[Read more](./tuitionn.html)
 
-It focused on providing a free, accurate experience for UK students to help them study for their end of school exams. It was used by most of my school year and helped many of us achieve greater grades than what we could've done without it.
+## RevisR
 
-### Log in screen
+**[RevisR](https://github.com/davwheat/RevisR)** was the prequel version of Tuitionn for Android, coded in .NET Xaramin (C#). It was scrapped after 2 months of work. Most information from the app was ported to Tuitionn
 
-I used **[Material Design](https://material.io/develop/web/)** to keep a consistent theme which also would allow porting to a web app or Android in the future. I also used **[reCAPTCHA](https://developers.google.com/recaptcha/)** to filter real users from bots and spam.
+## PoliceAnimations
 
-This login page, when submitted, would check if the user was a robot or not, then it would check the database of users for an account with a username or e-mail equal to what the user entered. It would then use PHP's `password_verify()` function to test the password against the hashed version in the database. If it matched, it would store a sessions cookie and allow the user access to the members section of the site.
+**[PoliceAnimations](https://github.com/davwheat/PoliceAnimations)** was a Lua script for a version of Grand Theft Auto V Multiplayer called FiveM or FiveReborn. It added a variety of police related animations to the game including a 'surrender and get on your knees' pose and a 'hand on radio' pose.
 
-![Login Page](/assets/img/tuitionn/login.png)
+## TrainerVConfigCreator
 
-### Javascript Libraries
+**[TrainerVConfigCreator](https://github.com/davwheat/TrainerVConfigCreator)** is a C# WinForms application
 
-I used a few different public libraries in this endeavour. These include:
+## gcse-computing
 
-- [gauge.js](https://github.com/bernii/gauge.js)
-- [Material Design](https://github.com/material-components/material-components-web)
-
-![Gauges](/assets/img/tuitionn/gauges.gif)
+**[gcse-computing](https://github.com/davwheat/gcse-computing)** is a collection of Python files that each do different things. For example there is a Chat Bot, Binary > Decimal converter, Mad Libs and more.
