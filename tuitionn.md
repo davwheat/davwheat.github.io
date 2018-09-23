@@ -39,4 +39,6 @@ I used a few different public libraries in this project. These include:
 - [gauge.js](https://github.com/bernii/gauge.js)
 - [Material Design](https://github.com/material-components/material-components-web)
 
+The gauges were used to display a user's progress through a subject on the site.
+
 ![Gauges](/assets/img/tuitionn/gauges.gif)
